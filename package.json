@@ -3,10 +3,13 @@
   "version": "1.0.0",
   "description": "",
   "main": "script.js",
+<<<<<<< HEAD
   "dependencies": {
     "lodash": "^4.17.20"
   },
   "devDependencies": {},
+=======
+>>>>>>> ab618b2a5036f6dd22466d9f3d2f5aeaaef22b4c
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
